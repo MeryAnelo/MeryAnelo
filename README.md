@@ -2,11 +2,11 @@
 
 ### Backend Developer
 
-<a href="https://www.java.com/en" target="_blank"><img height="30" src="https://github.com/MeryAnelo/MeryAnelo/assets/java-vertical.svg"></a>
-<a href="https://spring.io/" target="_blank"><img height="30" src="https://github.com/MeryAnelo/MeryAnelo/assets/springio-icon.svg"></a>
-<a href="https://nodejs.org/en" target="_blank"><img height="30" src="https://github.com/MeryAnelo/MeryAnelo/assets/nodejs-icon.svg"></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img height="30" src="https://github.com/MeryAnelo/MeryAnelo/assets/typescriptlang-icon.svg"></a>
-<a href="https://www.serverless.com/" target="_blank"><img height="30" src="https://github.com/MeryAnelo/MeryAnelo/assets/serverless-icon.svg"></a>
+<a href="https://www.java.com/en" target="_blank"><img height="30" src="./assets/java-vertical.svg"></a>
+<a href="https://spring.io/" target="_blank"><img height="30" src="./assets/springio-icon.svg"></a>
+<a href="https://nodejs.org/en" target="_blank"><img height="30" src="./assets/nodejs-icon.svg"></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img height="30" src="./assets/typescriptlang-icon.svg"></a>
+<a href="https://www.serverless.com/" target="_blank"><img height="30" src="./assets/serverless-icon.svg"></a>
 
 ## About me
 
