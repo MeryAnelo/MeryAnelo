@@ -17,13 +17,13 @@ I'm a fast learner and love to learn new things. I'm always looking for new chal
 
 ## What I work on
 
-☁️ Cloud & Serverless Architecture — distributed and event-driven systems on AWS.
-🔌 Backend & API Design — REST APIs, integrations, contracts, validation, observability, and backward compatibility.
-🚚 Logistics & eCommerce — high-volume integrations, shipment workflows, tracking, labels, asynchronous processing, and external providers.
-🏗️ System Modernization — migration strategies from legacy Java/Spring Boot applications to Node.js and TypeScript.
-⚙️ Automation & Developer Experience — improving development workflows, onboarding, documentation, and operational processes.
-🤖 AI-assisted Engineering — using AI to reduce documentation debt, accelerate codebase understanding, and automate repetitive development tasks.
-👥 Technical Leadership — guiding small groups of backend developers while remaining hands-on with architecture, implementation, reviews, and troubleshooting.
+- ☁️ Cloud & Serverless Architecture — distributed and event-driven systems on AWS.
+- 🔌 Backend & API Design — REST APIs, integrations, contracts, validation, observability, and backward compatibility.
+- 🚚 Logistics & eCommerce — high-volume integrations, shipment workflows, tracking, labels, asynchronous processing, and external providers.
+- 🏗️ System Modernization — migration strategies from legacy Java/Spring Boot applications to Node.js and TypeScript.
+- ⚙️ Automation & Developer Experience — improving development workflows, onboarding, documentation, and operational processes.
+- 🤖 AI-assisted Engineering — using AI to reduce documentation debt, accelerate codebase understanding, and automate repetitive development tasks.
+- 👥 Technical Leadership — guiding small groups of backend developers while remaining hands-on with architecture, implementation, reviews, and troubleshooting.
 
 ## Some things I've been working on recently
 
